@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "We Play"
+date:   2017-07-07 21:21:45 +0700
+categories: jekyll update
+gambar : ../images/football.png
+---
+
+#### **_Boring_**??
+
+![photo2](https://scontent.cdninstagram.com/t51.2885-15/s750x750/sh0.08/e35/18580340_232785727205954_2909012909000491008_n.jpg?ig_cache_key=MTUxNzIzNjgxMzQ5NTE0ODYzMw%3D%3D.2)
+
+
+Meskipun padet jadwalnya tapi kita masih bisa main **_uno stacko_** gini. 
+`uno stacko` adalah permainan menyusun balok untuk 2-10 pemain. Berikut [artikel](http://rumahinspirasi.com/permainan-keluarga-uno-stacko/) tentang permainan `uno stacko`. Cara mainnya bisa ~~dibuka~~ diklik `VIDEO` dibawah ini.
+
+[![IMAGE ALT TEXT HERE](https://ecs7.tokopedia.net/img/cache/375/hot_product/2016/12/22/18/1/39/4254/uno-stacko.jpg)](https://www.youtube.com/watch?v=6r09w4nvZhE)
+
+```
+Ada banyak manfaat yang akan Anda dapatkan ketika memainkan Uno Stacko. Manfaat pertama adalah kognitif. Kemampuan mengetahui dan mengingat Anda akan bertambah dengan permainan ini. Manfaat kedua berhubungan dengan motorik. Permainan ini mampu membuat Anda mengkoordinasikan anggota tubuh Anda seperti tangan dan kaki. Manfaat ketiga berhubungan dengan logika. Kemampuan berpikir Anda akan dilatih secara cepat dan teratur. Manfaat keempat berhubungan dengan emosional dan sosial. Anda dapat merasakan dan menjalin hubungan interpersonal dengan pemain lain. Manfaat kelima berhubungan dengan visual. Mata Anda kan menjadi lebih baik dalam menangkap bentuk dan warna objek. Selain manfaat diatas, Anda juga akan menjadi lebih kreatif dan imajinatif. Otak Anda akan menghasilkan lebih banyak ide yang sesuai dengan konteks. Lalu, bagaimana cara memainkan Uno Stacko?
+```
+
+Aturan dasar bermain Uno Stacko adalah:
+* Pemain mengelilingi balok Uno Stacko yang telah disusun
+* Pemain pertama mengambil balok dan meletakkan di posisi paling atas
+* Pemain berikutnya harus mengambil balok dengan warna sama/angka sama tanpa menjatuhkan susunan balok.
+* Untuk mengambil balok hanya boleh memakai 2 jari.
+* Pemain yang merubuhkan balok adalah pemain yang kalah.
+* Ada balok khusus: dua kali ambil, arah permainan berbalik, ganti warna.
+
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/

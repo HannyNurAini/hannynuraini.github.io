@@ -1,0 +1,15 @@
+<header>
+    {% assign default_paths = site.pages | map: "path" %}
+    {% assign page_paths = site.header_pages | default: default_paths %}
+  <div class ="navbar">
+    <div class = "navbar-isi">
+      <img src="../images/icon.png" title="title" alt="add title"/>
+      <br>
+      <a style="text-decoration: none;"
+      href="{{ "/" | relative_url }}">{{ site.title | escape }}</a> 
+    </div>
+  </div>
+  <div class="about">
+    
+  </div>
+</header>

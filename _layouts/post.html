@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {% include head.html %}
+
+<body style="background-color: #031d3f">
+  <header>
+    {% assign default_paths = site.pages | map: "path" %}
+    {% assign page_paths = site.header_pages | default: default_paths %}
+    <div style="height: 60px; opacity: 1; background-color: #87a4f2; border-bottom: solid; border-color: white;">
+      <div>
+        <a style="text-decoration: none; color:#f9b3f8; font-family:'forte'; font-size: 25px;float:right; padding: 15px 25px;"
+        href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>    
+      </div>
+    </div>
+  <div class ="konten" style="width:50%;height:100%;background-color: #031d3f; margin: auto;">
+    <div class = "konten1-isi" style="color:white; font-family: Courier, monospace;">
+      <br>
+      <h1 style="margin: 0px 30px;">{{ page.title | escape }}</h1>
+      <time style="margin: 30px 30px;" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+        {% if site.github_username %}
+        {% include icon-github.html username=site.github_username %}     
+        {% endif %}
+        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+        {{ page.date | date: date_format }}
+
+      </time>
+
+      <div style="margin: 0px 30px; font-family: 'Menlo','Monaco','Consolas','Courier New','monospace';">
+      {{ content }}
+      </div>     
+    </div>
+  </div>
+  </header>
+</body>
+
+
+ 

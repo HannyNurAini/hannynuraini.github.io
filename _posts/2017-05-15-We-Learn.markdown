@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "We Learn"
+date:   2017-07-07 21:21:45 +0700
+categories: jekyll update
+gambar : ../images/laptop.png
+---
+
+#### Belajar apa aja??
+
+  Selama `boothcamp` kita belajar dari hari Senin sampai Jumat dari pukul 09.00 WIB sampai pukul 16.00 WIB. .NET Boothcamp ini berlangsung selama 8 Minggu dimulai dari bulai Mei 2017. Agenda belajar di Bootcamp ini adalah sebagai berikut:
+
+|Week|||Agenda Belajar|
+|---|---|---|---|
+|0|||Kelas persiapan|
+|1|||How to Make A Website Part 1|
+|2|||How to Make A Website Part 2|
+|3|||C#|
+|4|||Algorithm & Data Structure|
+|5|||Database|
+|6|||ASP .NET MVC|
+|7|||Software Development Tools & Frameworks, Software Engineering Softskills|
+|8|||Mini Project|
+|9|||Real World Project|
+
+![photo3](https://scontent.cdninstagram.com/t51.2885-15/s750x750/sh0.08/e35/18580284_139255353286908_45481032194981888_n.jpg?ig_cache_key=MTUyMDgxNDE1ODcyMjMwMjcyMA%3D%3D.2)
+
+Informasi lebih lanjut mengenai program .NET Boothcamp:
+[Makers Institute](https://makersinstitute.id/)
+
+
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
